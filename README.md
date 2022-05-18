@@ -5,12 +5,12 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/assets/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/reynoldArun/Vue---Advice-generator-app)
+- Live Site URL: [live demo](https://your-live-site-url.com)
 
 
 ### Built with
